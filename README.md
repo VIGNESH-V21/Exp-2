@@ -31,10 +31,12 @@ SEQUENCE DIAGRAM:
 
 
 ACTIVITY DIAGRAM:
+
 <img width="611" height="1323" alt="ActivityDiagram1" src="https://github.com/user-attachments/assets/644c8f64-a553-4a3c-9fd4-3c4e7d4896fe" />
 
 
 COMMUNICATION DIAGRAM:
+
 <img width="1172" height="912" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/6cda6d8a-6585-4054-a996-e0974dda4ea0" />
 
 
